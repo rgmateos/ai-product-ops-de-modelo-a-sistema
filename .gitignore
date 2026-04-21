@@ -1,1 +1,26 @@
+# Python
 
+__pycache__/
+
+*.pyc
+A1
+ 
+AI Product Ops
+
+2
+
+.venv/
+
+.env
+
+# Streamlit
+
+.streamlit/secrets.toml
+
+# OS / IDE
+
+.DS_Store
+
+.vscode/
+
+.idea/
