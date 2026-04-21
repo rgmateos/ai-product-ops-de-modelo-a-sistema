@@ -26,3 +26,6 @@ App didáctica para obligar decisiones de diseño (trade-offs) en sistemas IA:
    ├─ __init__.py
    ├─ economics.py
    └─ reporting.py
+
+pip install -r requirements.txt
+streamlit run app.py
